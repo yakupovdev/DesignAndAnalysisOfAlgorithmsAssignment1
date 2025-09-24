@@ -1,0 +1,32 @@
+# --- ОС ---
+.DS_Store
+Thumbs.db
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# --- Maven ---
+target/
+
+# --- Логи и временные файлы ---
+*.log
+*.tmp
+*.swp
+*.swo
+
+# --- Компиляция / кэш ---
+*.class
+*.jar
+*.war
+*.ear
+
+# --- VS Code (если вдруг пользуешься) ---
+.vscode/
+
+# --- Тестовые артефакты ---
+*.csv
+*.txt
